@@ -1,3 +1,3 @@
 # go-hello-world
 
-Readme de my hello world en go
+Affiche hello world en langage go
